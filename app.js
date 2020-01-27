@@ -23,7 +23,7 @@ function getComputerChoice() {
 // Ensure readability of the output.
 function letterToWord(letter) {
     if (letter === "r") return "Rock";
-    if (letter === "r") return "Paper";
+    if (letter === "p") return "Paper";
     return "Scissors"
 }
 
